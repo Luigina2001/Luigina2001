@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there👋 I'm Luigina💻
+<div align="center">
+I am a student at the University of Salerno, Italy.
+</div>
 
 <!--
 **Luigina2001/Luigina2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
