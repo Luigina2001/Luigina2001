@@ -1,8 +1,22 @@
-## Hi there👋 I'm Luigina💻
-<div align="center">
-I am a student at the University of Salerno, Italy.
-</div>
+<!-- ## Hi there👋 I'm Luigina💻
+I am a student at the University of Salerno, Italy. In this repository, you'll find two of my current projects:
 
+* <b>iRepeat</b>: an Android application for creating and solving multiple choice quizzes on custom study topics.
+* <b>iLike</b>: an Android application that allows you to review content and interact with a Conversational Agent, whose role is to provide the user with information about possible films to watch, based on his preferences.
+
+Through them, I aim to apply my academic knowledge and gain hands-on experience with programming languages, development tools, operating systems and servers.
+
+<b> Thank you for taking the time to explore my GitHub profile. </b> -->
+
+### Ciao👋 Sono Luigina 💻
+Sono una studentessa presso l'Università di Salerno, Italia. In questo repository troverai due dei miei progetti attuali:
+
+* <b>iRepeat</b>: un'applicazione Android per creare e risolvere quiz a scelta multipla su argomenti di studio personalizzati;
+* <b>iLike</b>: un'applicazione Android che permette di recensire contenuti e interagire con un Conversational Agent, il cui ruolo è fornire all'utente informazioni su possibili film da guardare, basandosi sulle sue preferenze.
+
+Attraverso questi progetti, intendo applicare le mie conoscenze accademiche e acquisire esperienza pratica con linguaggi di programmazione, strumenti di sviluppo, sistemi operativi e server.
+
+<b>Grazie per aver dedicato del tempo a esplorare il mio profilo GitHub.</b>
 <!--
 **Luigina2001/Luigina2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
