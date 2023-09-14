@@ -13,10 +13,14 @@ Sono una studentessa presso il dipartimento di Informatica dell'Università degl
 
 * <b>iRepeat</b>: un'applicazione Android per creare e risolvere quiz a scelta multipla su argomenti di studio personalizzati;
 * <b>iLike</b>: un'applicazione Android che permette di recensire contenuti e interagire con un Conversational Agent, il cui ruolo è fornire all'utente informazioni su possibili film da guardare, basandosi sulle sue preferenze.
+* <b>BirrAI</b>: progetto, sviluppato per la mia tesi di laurea triennale, che utilizza l'intelligenza artificiale per generare nuove ricette di birra artigianale e predire l'attributo chimico IBU, rappresentando un innovativo connubio tra tradizione birraria e tecnologie moderne.
 
 Attraverso questi progetti, intendo applicare le mie conoscenze accademiche e acquisire esperienza pratica con linguaggi di programmazione, strumenti di sviluppo, sistemi operativi e server.
 
 <b>Grazie per aver dedicato del tempo a esplorare il mio profilo GitHub.</b>
+
+
+
 <!--
 **Luigina2001/Luigina2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
