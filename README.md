@@ -1,5 +1,5 @@
 <!-- ## Hi there👋 I'm Luigina💻
-I am a student at the University of Salerno, Italy. In this repository, you'll find two of my current projects:
+I am a student at the University of Salerno, Italy. In this repository, you'll find three of my current projects:
 
 * <b>iRepeat</b>: an Android application for creating and solving multiple choice quizzes on custom study topics.
 * <b>iLike</b>: an Android application that allows you to review content and interact with a Conversational Agent, whose role is to provide the user with information about possible films to watch, based on his preferences.
