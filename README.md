@@ -9,11 +9,14 @@ Through them, I aim to apply my academic knowledge and gain hands-on experience 
 <b> Thank you for taking the time to explore my GitHub profile. </b> -->
 
 ### Ciao👋 Sono Luigina 💻
-Sono una studentessa presso il dipartimento di Informatica dell'Università degli Studi di Salerno, Italia. In questo repository troverai tre dei miei progetti attuali:
+Sono una studentessa presso il dipartimento di Informatica dell'Università degli Studi di Salerno, Italia. In questo repository troverai quattro dei miei progetti attuali:
 
 * <b>iRepeat</b>: un'applicazione Android per creare e risolvere quiz a scelta multipla su argomenti di studio personalizzati;
 * <b>iLike</b>: un'applicazione Android che permette di recensire contenuti e interagire con un Conversational Agent, il cui ruolo è fornire all'utente informazioni su possibili film da guardare, basandosi sulle sue preferenze.
 * <b>BirrAI</b>: progetto, sviluppato per la mia tesi di laurea triennale, che utilizza l'intelligenza artificiale per generare nuove ricette di birra artigianale e predire l'attributo chimico IBU, rappresentando un innovativo connubio tra tradizione birraria e tecnologie moderne.
+* <b>BookTalk</b>: un'applicazione Flutter per risolvere equazioni matematiche con passaggi dettagliati, esplorare opere letterarie tramite scansione testuale e avviare conversazioni con un chatbot per una revisione interattiva dei tuoi libri preferiti.
+
+<!--
 
 Attraverso questi progetti, intendo applicare le mie conoscenze accademiche e acquisire esperienza pratica con linguaggi di programmazione, strumenti di sviluppo, sistemi operativi e server.
 
@@ -21,7 +24,6 @@ Attraverso questi progetti, intendo applicare le mie conoscenze accademiche e ac
 
 
 
-<!--
 **Luigina2001/Luigina2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
