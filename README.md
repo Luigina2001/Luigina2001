@@ -8,13 +8,14 @@ Through them, I aim to apply my academic knowledge and gain hands-on experience 
 
 <b> Thank you for taking the time to explore my GitHub profile. </b> -->
 
-### Ciao👋 Sono Luigina 💻
-Sono una studentessa presso il dipartimento di Informatica dell'Università degli Studi di Salerno, Italia. In questo repository troverai quattro dei miei progetti attuali:
+### Ciao, sono Luigina 💻
+Sto conseguendo una laurea magistrale in Data Science e Machine Learning all'Università degli Studi di Salerno, Italia. In questo repository troverai cinque dei miei progetti attuali:
 
 * <b>iRepeat</b>: un'applicazione Android per creare e risolvere quiz a scelta multipla su argomenti di studio personalizzati;
 * <b>iLike</b>: un'applicazione Android che permette di recensire contenuti e interagire con un Conversational Agent, il cui ruolo è fornire all'utente informazioni su possibili film da guardare, basandosi sulle sue preferenze.
 * <b>BirrAI</b>: progetto, sviluppato per la mia tesi di laurea triennale, che utilizza l'intelligenza artificiale per generare nuove ricette di birra artigianale e predire l'attributo chimico IBU, rappresentando un innovativo connubio tra tradizione birraria e tecnologie moderne.
 * <b>BookTalk</b>: un'applicazione Flutter per risolvere equazioni matematiche con passaggi dettagliati, esplorare opere letterarie tramite scansione testuale e avviare conversazioni con un chatbot per una revisione interattiva dei tuoi libri preferiti.
+* <b>C3DPNet</b>: esplorazione di un approccio contrastivo che integra Graph Neural Networks e modelli di linguaggio naturale per analizzare e correlare sequenze e strutture proteiche.
 
 <!--
 
