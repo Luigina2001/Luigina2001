@@ -9,7 +9,7 @@ Through them, I aim to apply my academic knowledge and gain hands-on experience 
 <b> Thank you for taking the time to explore my GitHub profile. </b> -->
 
 ### Ciao, sono Luigina 💻
-Sto conseguendo una laurea magistrale in Data Science e Machine Learning all'Università degli Studi di Salerno, Italia. In questo repository troverai cinque dei miei progetti attuali:
+Sto conseguendo una laurea magistrale in Data Science e Machine Learning presso l'Università degli Studi di Salerno, Italia. In questo repository troverai cinque dei miei progetti attuali:
 
 * <b>iRepeat</b>: un'applicazione Android per creare e risolvere quiz a scelta multipla su argomenti di studio personalizzati;
 * <b>iLike</b>: un'applicazione Android che permette di recensire contenuti e interagire con un Conversational Agent, il cui ruolo è fornire all'utente informazioni su possibili film da guardare, basandosi sulle sue preferenze.
