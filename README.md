@@ -59,10 +59,10 @@ Android application that allows reviewing content and interacting with a Convers
 ### [BirrAI](https://github.com/Luigina2001/BirrAI)
 Project developed for my bachelor's thesis, using artificial intelligence to generate new craft beer recipes and predict the IBU chemical attribute. It represents an innovative blend of brewing tradition and modern technologies.
 
-### [BookTalk](https://github.com/Luigina2001/BookTalk)
+### [BookTalk](https://github.com/Luigina2001/booktalk_app.git)
 Flutter application for solving mathematical equations with detailed steps, exploring literary works through text scanning, and initiating conversations with a chatbot for an interactive review of your favorite books.
 
-### [C3DPNet](https://github.com/Luigina2001/C3DPNet)
+### [C3DPNet](https://github.com/Luigina2001/contrastive-3d-protein-prediction.git)
 Exploration of a contrastive approach that integrates Graph Neural Networks and natural language models to analyze and correlate protein sequences and structures.
 
 
