@@ -26,7 +26,7 @@ Through them, I aim to apply my academic knowledge and gain hands-on experience 
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Luigina2001&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Luigina2001&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
   
   </td>
 </tr>
@@ -52,7 +52,7 @@ Through them, I aim to apply my academic knowledge and gain hands-on experience 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,js,linux,mongodb,mysql,nodejs,py,vscode,sqlite,windows,flask,dart,pycharm,eclipse" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,js,linux,mongodb,mysql,nodejs,py,vscode,sqlite,windows,flask,dart,pycharm,eclipse,latex,c" />
   </a>
 </p>
 
