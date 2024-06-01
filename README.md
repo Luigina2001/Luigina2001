@@ -1,4 +1,4 @@
-# Hi, I'm Luigina 💻
+# Hi, I'm Luigina <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> I'm pursuing a master's degree in **Data Science and Machine Learning** at the University of Salerno, Italy.
 
 <!--- stats & Trophy (start) -->
@@ -64,7 +64,6 @@ Flutter application for solving mathematical equations with detailed steps, expl
 
 ### [C3DPNet](https://github.com/Luigina2001/C3DPNet)
 Exploration of a contrastive approach that integrates Graph Neural Networks and natural language models to analyze and correlate protein sequences and structures.
-
 
 
 <!--In questo repository troverai cinque dei miei progetti attuali:
