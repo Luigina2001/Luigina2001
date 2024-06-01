@@ -1,16 +1,5 @@
-<!-- ## Hi there👋 I'm Luigina💻
-I am a student at the University of Salerno, Italy. In this repository, you'll find two of my current projects:
-
-* <b>iRepeat</b>: an Android application for creating and solving multiple choice quizzes on custom study topics.
-* <b>iLike</b>: an Android application that allows you to review content and interact with a Conversational Agent, whose role is to provide the user with information about possible films to watch, based on his preferences.
-
-Through them, I aim to apply my academic knowledge and gain hands-on experience with programming languages, development tools, operating systems and servers.
-
-<b> Thank you for taking the time to explore my GitHub profile. </b> -->
-
-# Ciao, sono Luigina 💻
-
-🎓 Sto conseguendo una laurea magistrale in **Data Science e Machine Learning** presso l'Università degli Studi di Salerno, Italia.
+# Hi, I'm Luigina 💻
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> I'm pursuing a master's degree in **Data Science and Machine Learning** at the University of Salerno, Italy.
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -46,7 +35,7 @@ Through them, I aim to apply my academic knowledge and gain hands-on experience 
 <!--- stats (end) -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologie che conosco👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -59,22 +48,22 @@ Through them, I aim to apply my academic knowledge and gain hands-on experience 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📁 Progetti
+## 📁 Projects
 
 ### [iRepeat](https://github.com/Luigina2001/iRepeat)
-Applicazione Android per creare e risolvere quiz a scelta multipla su argomenti di studio personalizzati.
+Android application for creating and solving multiple-choice quizzes on personalized study topics.
 
 ### [iLike](https://github.com/Luigina2001/iLike)
-Applicazione Android che permette di recensire contenuti e interagire con un Conversational Agent, il cui ruolo è fornire all'utente informazioni su possibili film da guardare, basandosi sulle sue preferenze.
+Android application that allows reviewing content and interacting with a Conversational Agent, which provides users with information about possible movies to watch based on their preferences.
 
 ### [BirrAI](https://github.com/Luigina2001/BirrAI)
-Progetto sviluppato per la mia tesi di laurea triennale, che utilizza l'intelligenza artificiale per generare nuove ricette di birra artigianale e predire l'attributo chimico IBU. Rappresenta un innovativo connubio tra tradizione birraria e tecnologie moderne.
+Project developed for my bachelor's thesis, using artificial intelligence to generate new craft beer recipes and predict the IBU chemical attribute. It represents an innovative blend of brewing tradition and modern technologies.
 
 ### [BookTalk](https://github.com/Luigina2001/BookTalk)
-Applicazione Flutter per risolvere equazioni matematiche con passaggi dettagliati, esplorare opere letterarie tramite scansione testuale e avviare conversazioni con un chatbot per una revisione interattiva dei tuoi libri preferiti.
+Flutter application for solving mathematical equations with detailed steps, exploring literary works through text scanning, and initiating conversations with a chatbot for an interactive review of your favorite books.
 
 ### [C3DPNet](https://github.com/Luigina2001/C3DPNet)
-Esplorazione di un approccio contrastivo che integra Graph Neural Networks e modelli di linguaggio naturale per analizzare e correlare sequenze e strutture proteiche.
+Exploration of a contrastive approach that integrates Graph Neural Networks and natural language models to analyze and correlate protein sequences and structures.
 
 
 
