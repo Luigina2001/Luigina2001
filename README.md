@@ -13,13 +13,6 @@ Sto conseguendo una laurea magistrale in Data Science e Machine Learning presso 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luigina2001&show_icons=true&theme=radical)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Luigina2001&theme=juicyfresh)
-
-## Repository Preferiti
-
-- [BirrAI](https://github.com/Luigina2001/BirrAI)
-- [BookTalk](https://github.com/Luigina2001/BookTalk)
-- [C3DPNet](https://github.com/Luigina2001/C3DPNet)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luigina2001&layout=compact&theme=radical)
 
 
