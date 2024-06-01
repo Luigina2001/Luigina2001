@@ -14,7 +14,7 @@ Through them, I aim to apply my academic knowledge and gain hands-on experience 
 
 ## 📊 Statistiche GitHub
 
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Luigina2001&show_icons=true&theme=radical&hide=prs,issues,contribs)
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Luigina2001&show_icons=true&theme=radical)
 
 ## 🏆 Trofei
 
