@@ -9,7 +9,22 @@ Through them, I aim to apply my academic knowledge and gain hands-on experience 
 <b> Thank you for taking the time to explore my GitHub profile. </b> -->
 
 ### Ciao, sono Luigina 💻
-Sto conseguendo una laurea magistrale in Data Science e Machine Learning presso l'Università degli Studi di Salerno, Italia. In questo repository troverai cinque dei miei progetti attuali:
+Sto conseguendo una laurea magistrale in Data Science e Machine Learning presso l'Università degli Studi di Salerno, Italia. 
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luigina2001&show_icons=true&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Luigina2001&theme=juicyfresh)
+
+## Repository Preferiti
+
+- [BirrAI](https://github.com/Luigina2001/BirrAI)
+- [BookTalk](https://github.com/Luigina2001/BookTalk)
+- [C3DPNet](https://github.com/Luigina2001/C3DPNet)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luigina2001&layout=compact&theme=radical)
+
+
+
+<!--In questo repository troverai cinque dei miei progetti attuali:
 
 * <b>iRepeat</b>: un'applicazione Android per creare e risolvere quiz a scelta multipla su argomenti di studio personalizzati;
 * <b>iLike</b>: un'applicazione Android che permette di recensire contenuti e interagire con un Conversational Agent, il cui ruolo è fornire all'utente informazioni su possibili film da guardare, basandosi sulle sue preferenze.
@@ -17,7 +32,6 @@ Sto conseguendo una laurea magistrale in Data Science e Machine Learning presso 
 * <b>BookTalk</b>: un'applicazione Flutter per risolvere equazioni matematiche con passaggi dettagliati, esplorare opere letterarie tramite scansione testuale e avviare conversazioni con un chatbot per una revisione interattiva dei tuoi libri preferiti.
 * <b>C3DPNet</b>: esplorazione di un approccio contrastivo che integra Graph Neural Networks e modelli di linguaggio naturale per analizzare e correlare sequenze e strutture proteiche.
 
-<!--
 
 Attraverso questi progetti, intendo applicare le mie conoscenze accademiche e acquisire esperienza pratica con linguaggi di programmazione, strumenti di sviluppo, sistemi operativi e server.
 
