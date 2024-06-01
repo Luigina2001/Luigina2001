@@ -8,12 +8,38 @@ Through them, I aim to apply my academic knowledge and gain hands-on experience 
 
 <b> Thank you for taking the time to explore my GitHub profile. </b> -->
 
-### Ciao, sono Luigina 💻
-Sto conseguendo una laurea magistrale in Data Science e Machine Learning presso l'Università degli Studi di Salerno, Italia. 
+# Ciao, sono Luigina 💻
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luigina2001&show_icons=true&theme=radical)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Luigina2001&theme=juicyfresh)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luigina2001&layout=compact&theme=radical)
+🎓 Sto conseguendo una laurea magistrale in **Data Science e Machine Learning** presso l'Università degli Studi di Salerno, Italia.
+
+## 📊 Statistiche GitHub
+
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Luigina2001&show_icons=true&theme=radical)
+
+## 🏆 Trofei
+
+![Trofei GitHub](https://github-profile-trophy.vercel.app/?username=Luigina2001&theme=juicyfresh)
+
+## 🔝 Linguaggi di programmazione utilizzati
+
+![Top Lingue](https://github-readme-stats.vercel.app/api/top-langs/?username=Luigina2001&layout=compact&theme=radical)
+
+## 📁 Progetti
+
+### [iRepeat](https://github.com/Luigina2001/iRepeat)
+Applicazione Android per creare e risolvere quiz a scelta multipla su argomenti di studio personalizzati.
+
+### [iLike](https://github.com/Luigina2001/iLike)
+Applicazione Android che permette di recensire contenuti e interagire con un Conversational Agent, il cui ruolo è fornire all'utente informazioni su possibili film da guardare, basandosi sulle sue preferenze.
+
+### [BirrAI](https://github.com/Luigina2001/BirrAI)
+Progetto sviluppato per la mia tesi di laurea triennale, che utilizza l'intelligenza artificiale per generare nuove ricette di birra artigianale e predire l'attributo chimico IBU. Rappresenta un innovativo connubio tra tradizione birraria e tecnologie moderne.
+
+### [BookTalk](https://github.com/Luigina2001/BookTalk)
+Applicazione Flutter per risolvere equazioni matematiche con passaggi dettagliati, esplorare opere letterarie tramite scansione testuale e avviare conversazioni con un chatbot per una revisione interattiva dei tuoi libri preferiti.
+
+### [C3DPNet](https://github.com/Luigina2001/C3DPNet)
+Esplorazione di un approccio contrastivo che integra Graph Neural Networks e modelli di linguaggio naturale per analizzare e correlare sequenze e strutture proteiche.
 
 
 
