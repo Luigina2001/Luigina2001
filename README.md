@@ -50,19 +50,19 @@
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Projects
 
-### [iRepeat](https://github.com/Luigina2001/iRepeat)
+### 🔁 [iRepeat](https://github.com/Luigina2001/iRepeat)
 Android application for creating and solving multiple-choice quizzes on personalized study topics.
 
-### [iLike](https://github.com/Luigina2001/iLike)
+### 👍 [iLike](https://github.com/Luigina2001/iLike)
 Android application that allows reviewing content and interacting with a Conversational Agent, which provides users with information about possible movies to watch based on their preferences.
 
-### [BirrAI](https://github.com/Luigina2001/BirrAI)
+### 🍺 [BirrAI](https://github.com/Luigina2001/BirrAI)
 Project developed for my bachelor's thesis, using artificial intelligence to generate new craft beer recipes and predict the IBU chemical attribute. It represents an innovative blend of brewing tradition and modern technologies.
 
-### [BookTalk](https://github.com/Luigina2001/booktalk_app.git)
+### 📕 [BookTalk](https://github.com/Luigina2001/booktalk_app.git)
 Flutter application for solving mathematical equations with detailed steps, exploring literary works through text scanning, and initiating conversations with a chatbot for an interactive review of your favorite books.
 
-### [C3DPNet](https://github.com/Luigina2001/contrastive-3d-protein-prediction.git)
+### 🧬 [C3DPNet](https://github.com/Luigina2001/contrastive-3d-protein-prediction.git)
 Exploration of a contrastive approach that integrates Graph Neural Networks and natural language models to analyze and correlate protein sequences and structures.
 
 
