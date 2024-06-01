@@ -35,20 +35,20 @@
 <!--- stats (end) -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies I Know <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h2></summary>
+    <summary><h2 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Technologies I Know</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,js,linux,mongodb,mysql,nodejs,py,vscode,sqlite,windows,flask,dart,pycharm,eclipse,latex,c" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,js,linux,mongodb,mysql,nodejs,py,vscode,sqlite,windows,flask,dart,pycharm,eclipse,latex,c,tensorflow,opencv" />
   </a>
 </p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📁 Projects
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Projects
 
 ### [iRepeat](https://github.com/Luigina2001/iRepeat)
 Android application for creating and solving multiple-choice quizzes on personalized study topics.
