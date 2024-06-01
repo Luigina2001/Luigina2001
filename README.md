@@ -14,7 +14,7 @@ Through them, I aim to apply my academic knowledge and gain hands-on experience 
 
 ## 📊 Statistiche GitHub
 
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Luigina2001&show_icons=true&theme=radical)
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Luigina2001&show_icons=true&theme=radical&hide=stars,prs,issues,contribs)
 
 ## 🏆 Trofei
 
@@ -22,7 +22,7 @@ Through them, I aim to apply my academic knowledge and gain hands-on experience 
 
 ## 🔝 Linguaggi di programmazione utilizzati
 
-![Top Lingue](https://github-readme-stats.vercel.app/api/top-langs/?username=Luigina2001&layout=compact&theme=radical)
+![Top Lingue](https://github-readme-stats.vercel.app/api/top-langs/?username=Luigina2001&layout=compact&theme=radical&langs_count=8)
 
 ## 📁 Progetti
 
