@@ -12,6 +12,7 @@ Through them, I aim to apply my academic knowledge and gain hands-on experience 
 
 🎓 Sto conseguendo una laurea magistrale in **Data Science e Machine Learning** presso l'Università degli Studi di Salerno, Italia.
 
+<!--
 ## 📊 Statistiche GitHub
 
 ![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Luigina2001&show_icons=true&theme=radical)
@@ -20,9 +21,26 @@ Through them, I aim to apply my academic knowledge and gain hands-on experience 
 
 ![Trofei GitHub](https://github-profile-trophy.vercel.app/?username=Luigina2001&theme=juicyfresh)
 
+-->
+
 ## 🔝 Linguaggi di programmazione utilizzati
 
 ![Top Lingue](https://github-readme-stats.vercel.app/api/top-langs/?username=Luigina2001&layout=compact&theme=radical&langs_count=6)
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologie che conosco👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,js,linux,mongodb,mysql,nodejs,py,vscode,sqlite,windows,flask,dart,pycharm,eclipse" />
+  </a>
+</p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📁 Progetti
 
