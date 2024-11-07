@@ -1,5 +1,5 @@
 # Hi, I'm Luigina <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> I'm pursuing a master's degree in **Data Science and Machine Learning** at the University of Salerno, Italy.
+<picture><img src = "https://tinyurl.com/d78xa8v2" width = 50px></picture> I'm pursuing a master's degree in **Data Science and Machine Learning** at the University of Salerno, Italy.
 
 <!--- stats & Trophy (start) -->
 <p align="center">
