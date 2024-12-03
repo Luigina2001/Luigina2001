@@ -1,4 +1,4 @@
-# Hi, I'm Luigina <img src="https://tinyurl.com/d78xa8v2" width="30px">
+# Hi, I'm Luigina <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMyMjkxNTgsIm5iZiI6MTczMzIyODg1OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAzVDEyMjczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ4ZTU5YTgyMjFlYjZlN2VlMWI2NTJlMWIzMWViMzg1NmFjNDI3OGE1ZDhkZGE5OTE2OTkwMzk1MDE0ZTNhYzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LUkLeHboH-bmGKtYY_mBv1aFyZNh48dTp7FZCLu_b4U" width="30px">
 <picture><img src = "https://tinyurl.com/m4bscfz5" width = 50px></picture> I'm pursuing a master's degree in **Data Science and Machine Learning** at the University of Salerno, Italy.
 
 <!--- stats & Trophy (start) -->
