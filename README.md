@@ -1,7 +1,29 @@
-# Hi, I'm Luigina <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMyMjkxNTgsIm5iZiI6MTczMzIyODg1OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAzVDEyMjczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ4ZTU5YTgyMjFlYjZlN2VlMWI2NTJlMWIzMWViMzg1NmFjNDI3OGE1ZDhkZGE5OTE2OTkwMzk1MDE0ZTNhYzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LUkLeHboH-bmGKtYY_mBv1aFyZNh48dTp7FZCLu_b4U" width="30px">
-<picture><img src = "https://tinyurl.com/m4bscfz5" width = 50px></picture> I'm pursuing a master's degree in **Data Science and Machine Learning** at the University of Salerno, Italy.
+<!--# Hi, I'm Luigina <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMyMjkxNTgsIm5iZiI6MTczMzIyODg1OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAzVDEyMjczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ4ZTU5YTgyMjFlYjZlN2VlMWI2NTJlMWIzMWViMzg1NmFjNDI3OGE1ZDhkZGE5OTE2OTkwMzk1MDE0ZTNhYzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LUkLeHboH-bmGKtYY_mBv1aFyZNh48dTp7FZCLu_b4U" width="30px">
+<picture><img src = "https://tinyurl.com/m4bscfz5" width = 50px></picture> I'm pursuing a master's degree in **Data Science and Machine Learning** at the University of Salerno, Italy.-->
 
-<!--- stats & Trophy (start) -->
+# Hi, I'm Luigina <img src="https://tinyurl.com/m4bscfz5" width="30px">
+
+🎓 Master's student in **Data Science and Machine Learning** University of Salerno, Italy  
+🚀 Passionate about AI applications in real-world scenarios & open-source projects  
+📈 Transforming raw data into meaningful insights with machine learning
+
+---
+
+### 🛠️ Tech Stack
+
+#### **Core Competencies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,pytorch,git,mysql,mongodb,latex,github,windows,pycharm,linux" />
+</p>
+
+#### **Familiar With**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,discord,dart,nodejs,opencv,flask,dart,vscode,sqlite" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -21,76 +43,38 @@
 </tr>
 </table>
 <!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Luigina2001&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Technologies I Know</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,js,linux,mongodb,mysql,nodejs,py,vscode,sqlite,windows,flask,dart,pycharm,eclipse,latex,c,tensorflow,opencv" />
-  </a>
 </p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luigina2001&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Projects
+---
 
-### 🔁 [iRepeat](https://github.com/Luigina2001/iRepeat)
-Android application for creating and solving multiple-choice quizzes on personalized study topics.
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Highlight Projects
 
-### 👍 [iLike](https://github.com/Luigina2001/iLike)
-Android application that allows reviewing content and interacting with a Conversational Agent, which provides users with information about possible movies to watch based on their preferences.
+#### 🍺 [BirrAI - AI Craft Beer Generator](https://github.com/Luigina2001/BirrAI)
+*Bachelor Thesis Project*  
+🤖 Hybrid AI system generating novel craft beer recipes  
+📊 IBU prediction with 77% accuracy  
+🛠️ Tech: Python, Scikit-learn
 
-### 🍺 [BirrAI](https://github.com/Luigina2001/BirrAI)
-Project developed for my bachelor's thesis, using artificial intelligence to generate new craft beer recipes and predict the IBU chemical attribute. It represents an innovative blend of brewing tradition and modern technologies.
+#### 🧬 [C3DPNet - Protein Structure Prediction](https://github.com/Luigina2001/contrastive-3d-protein-prediction)
+🔬 Contrastive learning framework for 3D protein structures  
+💡 Novel contrastive approach combining **Graph Neural Networks (GNNs)** with **BERT-based embeddings**.
+🛠️ Tech: PyTorch Geometric, BERT
 
-### 📕 [BookTalk](https://github.com/Luigina2001/booktalk_app.git)
-Flutter application for solving mathematical equations with detailed steps, exploring literary works through text scanning, and initiating conversations with a chatbot for an interactive review of your favorite books.
+#### 📚 [BookTalk - Interactive Literature App](https://github.com/Luigina2001/booktalk_app)
+📖 Math equation solver with step-by-step explanations  
+🤖 NLP-powered book discussion chatbot  
+🛠️ Tech: Flutter, Dart
 
-### 🧬 [C3DPNet](https://github.com/Luigina2001/contrastive-3d-protein-prediction.git)
-Exploration of a contrastive approach that integrates Graph Neural Networks and natural language models to analyze and correlate protein sequences and structures.
+---
 
-
-<!--In questo repository troverai cinque dei miei progetti attuali:
-
-* <b>iRepeat</b>: un'applicazione Android per creare e risolvere quiz a scelta multipla su argomenti di studio personalizzati;
-* <b>iLike</b>: un'applicazione Android che permette di recensire contenuti e interagire con un Conversational Agent, il cui ruolo è fornire all'utente informazioni su possibili film da guardare, basandosi sulle sue preferenze.
-* <b>BirrAI</b>: progetto, sviluppato per la mia tesi di laurea triennale, che utilizza l'intelligenza artificiale per generare nuove ricette di birra artigianale e predire l'attributo chimico IBU, rappresentando un innovativo connubio tra tradizione birraria e tecnologie moderne.
-* <b>BookTalk</b>: un'applicazione Flutter per risolvere equazioni matematiche con passaggi dettagliati, esplorare opere letterarie tramite scansione testuale e avviare conversazioni con un chatbot per una revisione interattiva dei tuoi libri preferiti.
-* <b>C3DPNet</b>: esplorazione di un approccio contrastivo che integra Graph Neural Networks e modelli di linguaggio naturale per analizzare e correlare sequenze e strutture proteiche.
-
-
-Attraverso questi progetti, intendo applicare le mie conoscenze accademiche e acquisire esperienza pratica con linguaggi di programmazione, strumenti di sviluppo, sistemi operativi e server.
-
-<b>Grazie per aver dedicato del tempo a esplorare il mio profilo GitHub.</b>
-
-
-
-**Luigina2001/Luigina2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!
+<p align="center">
+  <a href="mailto:luiginacostante@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/luigina-costante-132845322">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
