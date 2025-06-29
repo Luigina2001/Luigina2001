@@ -50,33 +50,33 @@
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Highlight Projects
 
 #### 🧬 [C3DPNet - Protein Structure Prediction](https://github.com/Luigina2001/contrastive-3d-protein-prediction)
-🔬 Contrastive learning framework for 3D protein structures
-💡 Novel contrastive approach combining **Graph Neural Networks (GNNs)** with **BERT-based embeddings**.
-🛠️ Tech: PyTorch Geometric, BERT
+🔬 Contrastive learning framework for 3D protein structures  
+💡 Novel contrastive approach combining **Graph Neural Networks (GNNs)** with **BERT-based embeddings**.  
+🛠️ Tech: PyTorch Geometric, BERT  
 
 #### 👾 [IpomoeaAquatica – Space Invaders RL](https://github.com/Luigina2001/IpomoeaAquatica)
 
-🕹️ Trained an agent using **Q-Learning**, **DQN**, and **A3C** to play Space Invaders
-📊 Compared efficiency and performance of different **reinforcement learning** strategies
-🛠️ Tech: Python, OpenAI Gym, TensorFlow
+🕹️ Trained an agent using **Q-Learning**, **DQN**, and **A3C** to play Space Invaders  
+📊 Compared efficiency and performance of different **reinforcement learning** strategies  
+🛠️ Tech: Python, OpenAI Gym, TensorFlow  
 
 #### 🧠 [GiBERTino – Multi-party Dialogue Graph Modeling](https://github.com/Luigina2001/GiBERTino)
 
-🗣️ Modeled dialogue as a graph using **ModernBERT** for text encoding and **GNNs** for context propagation
-🔗 Performed **link prediction** and **discourse-relation classification**
-🛠️ Tech: PyTorch Geometric, HuggingFace Transformers
+🗣️ Modeled dialogue as a graph using **ModernBERT** for text encoding and **GNNs** for context propagation  
+🔗 Performed **link prediction** and **discourse-relation classification**  
+🛠️ Tech: PyTorch Geometric, HuggingFace Transformers  
 
 #### 💬 [NaLA – Sentiment Analysis on Bluesky Posts](https://github.com/Luigina2001/NaLA)
 
-📈 Evaluated sentiment-analysis models: **Random Forest**, **Naive Bayes**, **MLP**, **BiRNN**, **BERTweet**, **RoBERTa**
-⚖️ Focused on balancing **classification performance** and **computational efficiency**
-🛠️ Tech: scikit-learn, PyTorch, Transformers
+📈 Evaluated sentiment-analysis models: **Random Forest**, **Naive Bayes**, **MLP**, **BiRNN**, **BERTweet**, **RoBERTa**  
+⚖️ Focused on balancing **classification performance** and **computational efficiency**  
+🛠️ Tech: scikit-learn, PyTorch, Transformers  
 
 #### 🌐 [SMiLe-CoDe – Social Influence in Cost Networks](https://github.com/Luigina2001/SMiLe-CoDe)
 
-👥 Developed a **community-based**, **centrality-driven heuristic** for Majority Cascade seed selection
-📊 Benchmarked against **greedy** and **weighted target set** strategies
-🛠️ Tech: NetworkX, Louvain
+👥 Developed a **community-based**, **centrality-driven heuristic** for Majority Cascade seed selection  
+📊 Benchmarked against **greedy** and **weighted target set** strategies  
+🛠️ Tech: NetworkX, Louvain  
 
 <!--
 #### 📚 [BookTalk - Interactive Literature App](https://github.com/Luigina2001/booktalk_app)
