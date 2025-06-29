@@ -50,7 +50,7 @@
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Highlight Projects
 
 #### 🧬 [C3DPNet - Protein Structure Prediction](https://github.com/Luigina2001/contrastive-3d-protein-prediction)
-🔬 Contrastive learning framework for 3D protein structures  
+🔬 Contrastive learning framework for 3D protein structures
 💡 Novel contrastive approach combining **Graph Neural Networks (GNNs)** with **BERT-based embeddings**.
 🛠️ Tech: PyTorch Geometric, BERT
 
