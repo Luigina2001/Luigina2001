@@ -30,14 +30,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Luigina2001&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Luigina2001&theme=github_dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Luigina2001&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Luigina2001&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luigina2001&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
   
   </td>
 </tr>
@@ -45,28 +44,52 @@
 <!--- stats (end) -->
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luigina2001&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luigina2001&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Highlight Projects
-
-#### 🍺 [BirrAI - AI Craft Beer Generator](https://github.com/Luigina2001/BirrAI)
-*Bachelor Thesis Project*  
-🤖 Hybrid AI system generating novel craft beer recipes  
-📊 IBU prediction with 77% accuracy  
-🛠️ Tech: Python, Scikit-learn
 
 #### 🧬 [C3DPNet - Protein Structure Prediction](https://github.com/Luigina2001/contrastive-3d-protein-prediction)
 🔬 Contrastive learning framework for 3D protein structures  
 💡 Novel contrastive approach combining **Graph Neural Networks (GNNs)** with **BERT-based embeddings**.
 🛠️ Tech: PyTorch Geometric, BERT
 
+#### 👾 [IpomoeaAquatica – Space Invaders RL](https://github.com/Luigina2001/IpomoeaAquatica)
+
+🕹️ Trained an agent using **Q-Learning**, **DQN**, and **A3C** to play Space Invaders
+📊 Compared efficiency and performance of different **reinforcement learning** strategies
+🛠️ Tech: Python, OpenAI Gym, TensorFlow
+
+#### 🧠 [GiBERTino – Multi-party Dialogue Graph Modeling](https://github.com/Luigina2001/GiBERTino)
+
+🗣️ Modeled dialogue as a graph using **ModernBERT** for text encoding and **GNNs** for context propagation
+🔗 Performed **link prediction** and **discourse-relation classification**
+🛠️ Tech: PyTorch Geometric, HuggingFace Transformers
+
+#### 💬 [NaLA – Sentiment Analysis on Bluesky Posts](https://github.com/Luigina2001/NaLA)
+
+📈 Evaluated sentiment-analysis models: **Random Forest**, **Naive Bayes**, **MLP**, **BiRNN**, **BERTweet**, **RoBERTa**
+⚖️ Focused on balancing **classification performance** and **computational efficiency**
+🛠️ Tech: scikit-learn, PyTorch, Transformers
+
+#### 🌐 [SMiLe-CoDe – Social Influence in Cost Networks](https://github.com/Luigina2001/SMiLe-CoDe)
+
+👥 Developed a **community-based**, **centrality-driven heuristic** for Majority Cascade seed selection
+📊 Benchmarked against **greedy** and **weighted target set** strategies
+🛠️ Tech: NetworkX, Louvain
+
+<!--
 #### 📚 [BookTalk - Interactive Literature App](https://github.com/Luigina2001/booktalk_app)
 📖 Math equation solver with step-by-step explanations  
 🤖 NLP-powered book discussion chatbot  
 🛠️ Tech: Flutter, Dart
-
+-->
+<!-- #### 🍺 [BirrAI - AI Craft Beer Generator](https://github.com/Luigina2001/BirrAI)
+*Bachelor Thesis Project*  
+🤖 Hybrid AI system generating novel craft beer recipes  
+📊 IBU prediction with 77% accuracy  
+🛠️ Tech: Python, Scikit-learn 
+-->
 ---
 
 ### 📫 Let's Connect!
