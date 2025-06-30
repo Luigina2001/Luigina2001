@@ -18,7 +18,7 @@
 
 #### **Familiar With**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,discord,dart,nodejs,opencv,flask,dart,vscode,sqlite" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,discord,dart,nodejs,opencv,flask,vscode,sqlite" />
 </p>
 
 ---
