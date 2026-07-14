@@ -26,7 +26,7 @@ I combine a **researcher's mindset** with practical engineering to build impactf
 
 | **Core AI & Data** | **Languages** | **Dev Tools & DB** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" /> | <img src="https://skillicons.dev/icons?i=python,java,r,dart" /> | <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,latex,vscode" /> |
+| <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" /> | <img src="https://skillicons.dev/icons?i=python,java,r,dart,c" /> | <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,latex,vscode" /> |
 
 **Domains:** Computer Vision • NLP • Bioinformatics • Deepfake Detection • Social Network Analysis
 
